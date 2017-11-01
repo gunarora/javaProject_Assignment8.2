@@ -37,7 +37,7 @@ public class PrimeNumber implements Runnable {
 				//Print the value
 				System.out.println("Enter number to check prime : ");
 				
-				no=sc.nextInt(); // Initialize age variable	
+				no=sc.nextInt(); // Initialize variable	
 				//Close Scanner
 				sc.close();
 				//call method		
